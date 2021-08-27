@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Samyang7
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in many thing, AR, VR, Bouldering etc
 - 🌱 I’m currently learning Master of Information Technology
+- 💻 Language: C++, Java, Python
 - 📫 How to reach me ...
 samyangxh@gmail.com
 <!---
