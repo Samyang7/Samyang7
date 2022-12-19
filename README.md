@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Sam
-- 👀 I’m interested in many thing, AR, VR, Bouldering etc
-- 🌱 I’m currently learning Master of Information Technology
-- 💻 Language: C++, Java, Python
+- 👀 I’m interested in many thing, AR, Full Stack Dev, ML/DevOps etc
+- 🌱 I’m currently working as a Software Engineer
+- 💻 Language: C++, Java, JavaScript, Python
+- framework: ReactJs, NodeJs, GraphQL, Docker, K8s
 - 📫 How to reach me ...
 samyangxh@gmail.com
 <!---
